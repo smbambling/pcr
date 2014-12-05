@@ -8,8 +8,8 @@ forge "http://forge.puppetlabs.com"
 # Modules from Github
 mod 'r10k',
   :git => 'https://github.com/arinlabs/r10k.git',
-  :ref => 'master',
+  :ref => 'master'
 
 mod 'firewall',
   :git => 'https://github.com/arinlabs/puppetlabs-firewall.git',
-  :ref => 'master',
+  :ref => 'master'
